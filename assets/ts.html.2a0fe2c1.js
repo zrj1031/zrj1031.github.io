@@ -1,0 +1,1 @@
+const t={key:"v-294edca1",path:"/ts.html",title:"ts\u7C7B\u578B\u4F53\u64CD",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"toMap",slug:"tomap",children:[]}],git:{updatedTime:1644549369e3,contributors:[{name:"\u8D75\u4EC1\u5EFA",email:"zhaorenjian@bytedance.com",commits:1}]},filePathRelative:"ts.md"};export{t as data};
